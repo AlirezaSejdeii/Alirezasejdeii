@@ -31,7 +31,8 @@
 
 
 <p align="center">
- <a href="#" alt="Moien Tajik's github stats">
+  
+ <a href="#" alt="Alireza Sejdei">
   <img src="https://github-readme-stats.vercel.app/api?username=alirezasejdeii&theme=tokyonight&show_icons=true" />
  </a>
   
