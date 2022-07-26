@@ -34,7 +34,9 @@
  <a href="#" alt="Moien Tajik's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=alirezasejdeii&theme=tokyonight&show_icons=true" />
  </a>
+  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezasejdeii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 </p>
 
 
