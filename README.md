@@ -22,7 +22,7 @@
  <br>
  👯 I’m looking to collaborate on .Net projects
  <br>
- 💬 Ask me about .Net, C#, DDD, Microservices
+ 💬 Ask me about .Net, C#, DDD, TDD, Microservices
  <br>
 <br>
 </div>
