@@ -29,7 +29,7 @@
 
 <h3 align="center">Find me here:</h3>
 <p align="center">
- <a href="www.linkedin.com/in/AlirezaSejdei" target="_blank">
+ <a href="https://www.linkedin.com/in/AlirezaSejdei" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
   
