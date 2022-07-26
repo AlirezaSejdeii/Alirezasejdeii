@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi Freands I'm Alireza Sejdei 👋</h1>
+<h1>Hi Friends I'm Alireza Sejdei 👋</h1>
 
 <div>
   <img src="https://github.com/AlirezaSejdeii/alirezasejdeii/blob/main/dotnet-svgrepo-com.svg" title=".Net" alt=".Net" width="40" height="40"/>&nbsp;
@@ -19,11 +19,11 @@
 <div style="margin-left:10px" align="left"> 
  🔭 I’m currently working on software architect best practices
  <br>
- 👯 I’m looking to collaborate on friendly team based on microsoft technologies
+ 👯 I’m looking to collaborate on .NET projects
  <br>
- 💬 Ask me about .Net, C#, DDD, MicroServicess
+ 💬 Ask me about .Net, C#, DDD, MicroServices
  <br>
- 📫 How to reach me: @TheSejdei on telegram
+ 📫 Reach me from @TheSejdei on telegram
 <br>
 <br>
 </div>
