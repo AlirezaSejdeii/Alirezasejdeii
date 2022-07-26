@@ -1,6 +1,7 @@
 <div align="center">
-<h1>Hi Freands I'm Alireza Sejdei 👋</h1>
+<h1>Hi Friends I'm Alireza Sejdei 👋</h1>
 
+  <h3>Currently working on</h3>
 <div>
   <img src="https://github.com/AlirezaSejdeii/alirezasejdeii/blob/main/dotnet-svgrepo-com.svg" title=".Net" alt=".Net" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title=".Net" alt=".Net" width="40" height="40"/>&nbsp;
@@ -16,28 +17,32 @@
 <br>
 <br>
 
-<div style="margin-left:10px" align="left"> 
+<div style="float:left" align="center"> 
  🔭 I’m currently working on software architect best practices
  <br>
- 👯 I’m looking to collaborate on friendly team based on microsoft technologies
+ 👯 I’m looking to collaborate on .Net projects
  <br>
- 💬 Ask me about .Net, C#, DDD, MicroServicess
+ 💬 Ask me about .Net, C#, DDD, Microservices
  <br>
- 📫 How to reach me: @TheSejdei on telegram
-<br>
 <br>
 </div>
 
-
-
+<h3 align="center">Find me here:</h3>
 <p align="center">
-  
- <a href="#" alt="Alireza Sejdei">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirezasejdeii&theme=tokyonight&show_icons=true" />
+ <a href="www.linkedin.com/in/AlirezaSejdei" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezasejdeii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+ <a href="https://t.me/TheSejdei" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
+ </a>
+</p>
+
+
+<p align="center">  
+ <a href="#" alt="Alireza Sejdei">
+  <img src="https://github-readme-stats.vercel.app/api?username=alirezasejdeii&theme=tokyonight&show_icons=true" />
+ </a> 
 </p>
 
 
