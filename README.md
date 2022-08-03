@@ -3,13 +3,13 @@
 
   <h3>Currently working on</h3>
 <div>
-  <img src="https://github.com/AlirezaSejdeii/alirezasejdeii/blob/main/dotnet-svgrepo-com.svg" title=".Net" alt=".Net" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/AlirezaSejdeii/alirezasejdeii/blob/main/cdnlogo.com_c.svg" title="C#" alt=".Net" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/AlirezaSejdeii/alirezasejdeii/blob/main/blazor.svg" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/AlirezaSejdeii/alirezasejdeii/blob/main/angular-icon.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/AlirezaSejdeii/alirezasejdeii/blob/main/js_logo.svg" title="Javascript" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/AlirezaSejdeii/alirezasejdeii/blob/main/typescript.svg" title="Angular" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/AlirezaSejdeii/alirezasejdeii/blob/main/docker-svgrepo-com.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/AlirezaSejdeii/alirezasejdeii/main/dotnet-svgrepo-com.svg" title=".Net" alt=".Net" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/AlirezaSejdeii/alirezasejdeii/main/cdnlogo.com_c.svg" title="C#" alt=".Net" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/AlirezaSejdeii/alirezasejdeii/main/blazor.svg" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/AlirezaSejdeii/alirezasejdeii/main/angular-icon.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/AlirezaSejdeii/alirezasejdeii/main/js_logo.svg" title="Javascript" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/AlirezaSejdeii/alirezasejdeii/main/typescript.svg" title="Angular" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/AlirezaSejdeii/alirezasejdeii/main/docker-svgrepo-com.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <!--
   <img src="https://github.com/AlirezaSejdeii/alirezasejdeii/blob/main/kubernetes-svgrepo-com.svg" title="kubernetes"  alt="kubernetes" width="40" height="40"/>&nbsp;
   -->
